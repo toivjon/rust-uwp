@@ -2,6 +2,7 @@
 name = "rust_uwp"
 version = "0.1.0"
 edition = "2021"
+publish = false
 
 [dependencies]
 windows = "0.58.0"
